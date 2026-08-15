@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "The Universe as an Autonomous Generative System"
+message: "If you use or discuss this work, please cite it as follows."
+type: article
+authors:
+  - family-names: "Morelos"
+    given-names: "Omar Chad"
+date-released: 2026-08-15
+version: "1.0"
+license: "CC-BY-ND-4.0"
+repository-code: "https://github.com/[username]/universe-as-generative-system"
