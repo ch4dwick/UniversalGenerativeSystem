@@ -4,7 +4,7 @@ A conceptual framework exploring whether the universe can be understood as an au
 
 > **Scientific status:** Speculative conceptual framework. This work does not claim that the universe is literally a computer, simulation, or engineered system.
 
-**Author:** Omar Chad Morelos
+**Author:** Omar Chad Morelos  
 **Current version:** 1.0 — August 2026
 
 ---
