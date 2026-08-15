@@ -1,7 +1,7 @@
 # The Universe as an Autonomous Generative System
 ### A conceptual framework for cosmic scale, stochasticity, emergent complexity, and physical state transformation
 
-**Author:** Morelos, O.C.  
+**Author:** Morelos, Omar Chad
 **Status:** Conceptual/Theoretical Manuscript — Proposed for Peer Review  
 **Date:** August 2026
 
@@ -307,7 +307,7 @@ The same computation requiring one million years generally cannot serve its inte
 This introduces an implicit optimization:
 
 \[
-\text{useful output per unit time}.
+$\text{useful output per unit time}$.
 \]
 
 The universe has no known externally imposed requirement of this kind.
@@ -337,9 +337,7 @@ Instead, it asks whether sufficiently large physical state spaces and sufficient
 A simplified conceptual relationship is:
 
 \[
-\text{complexity}
-=
-f(\text{state space},\text{time},\text{energy},\text{variation},\text{constraints}).
+$\text{complexity}$ = f($\text{state space}$,$\text{time}$,$\text{energy}$,$\text{variation}$,$\text{constraints}$).
 \]
 
 The important distinction is between:
@@ -421,7 +419,7 @@ A chaotic system can be deterministic while nevertheless becoming practically un
 Consequently:
 
 \[
-\text{unpredictability} \neq \text{fundamental randomness}.
+$\text{unpredictability}$ $\neq$ $\text{fundamental randomness}$.
 \]
 
 The framework therefore avoids making assumptions about the interpretation of quantum mechanics.
@@ -441,9 +439,9 @@ A purely random system may produce noise.
 The potentially interesting regime lies between them:
 
 \[
-\text{constraint}+\text{variation}
-\rightarrow
-\text{diverse structured outcomes}.
+$\text{constraint}$+$\text{variation}$
+$\rightarrow$
+$\text{diverse structured outcomes}$.
 \]
 
 This relationship is already visible in computational models of complex systems.
@@ -527,55 +525,55 @@ It is **generation**.
 Consider the conceptual hierarchy:
 
 \[
-\text{physical laws}
+$\text{physical laws}$
 \]
 
 ↓
 
 \[
-\text{elementary interactions}
+$\text{elementary interactions}$
 \]
 
 ↓
 
 \[
-\text{atoms}
+$\text{atoms}$
 \]
 
 ↓
 
 \[
-\text{molecules}
+$\text{molecules}$
 \]
 
 ↓
 
 \[
-\text{stars and planets}
+$\text{stars and planets}$
 \]
 
 ↓
 
 \[
-\text{complex chemistry}
+$\text{complex chemistry}$
 \]
 
 ↓
 
 \[
-\text{biological organization}
+$\text{biological organization}$
 \]
 
 ↓
 
 \[
-\text{intelligence}
+$\text{intelligence}$
 \]
 
 ↓
 
 \[
-\text{artificial computation}.
+$\text{artificial computation}$.
 \]
 
 At no point does a lower-level component necessarily need to possess knowledge of the higher-level structure.
@@ -942,15 +940,15 @@ Determine how the availability and dissipation of free-energy gradients influenc
 Investigate whether systems can exhibit emergent hierarchies analogous to:
 
 \[
-\text{particles}
-\rightarrow
-\text{atoms}
-\rightarrow
-\text{chemistry}
-\rightarrow
-\text{biology}
-\rightarrow
-\text{intelligence}.
+$\text{particles}$
+$\rightarrow$
+$\text{atoms}$
+$\rightarrow$
+$\text{chemistry}$
+$\rightarrow$
+$\text{biology}$
+$\rightarrow$
+$\text{intelligence}$.
 \]
 
 ### 30.6 Comparison with cosmological observations
