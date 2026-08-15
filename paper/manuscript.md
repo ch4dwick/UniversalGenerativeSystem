@@ -1,7 +1,7 @@
 # The Universe as an Autonomous Generative System
 ### A conceptual framework for cosmic scale, stochasticity, emergent complexity, and physical state transformation
 
-**Author:** Morelos, Omar Chad
+**Author:** Morelos, Omar Chad  
 **Status:** Conceptual/Theoretical Manuscript — Proposed for Peer Review  
 **Date:** August 2026
 
@@ -147,7 +147,7 @@ where \(U\) represents the complete physical configuration of the system at time
 The universe subsequently occupies another state:
 
 \[
-U(t+$\Delta$ t)
+U(t + $\Delta$ t)
 \]
 
 according to physical laws.
@@ -155,7 +155,7 @@ according to physical laws.
 The abstract relationship can therefore be expressed as:
 
 \[
-U(t+$\Delta$ t)=F[U(t)]
+U(t + $\Delta$ t) = F[U(t)]
 \]
 
 where \(F\) represents the physical laws governing state evolution.
