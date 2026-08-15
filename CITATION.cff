@@ -11,18 +11,13 @@ abstract: >
   processing, defined outputs, optimization, and finite computational
   timescales.
 
-
   This paper proposes a different conceptual framework: **the universe as an autonomous generative system**.
-
 
   Under this framework, the universe is not assumed to store or process information according to human purposes, nor is an external computational substrate required. Instead, physical reality is considered a system whose fundamental operation consists of continuous physical state transformation under consistent laws. Matter and energy constitute the system's physical substrate; local interactions constitute its state-transition mechanisms; cosmic expansion is considered as a possible analogue of increasing system scale; thermodynamic evolution as a possible limitation on accessible energy gradients; and stochasticity and chaotic dynamics as potential sources of variation within an otherwise law-governed system.
 
-
   The framework further proposes that enormous spatial scale, extensive timescales, physical variation, and repeated state transitions may permit the emergence of increasingly complex structures without requiring centralized control or an externally specified objective. Biological life is therefore treated not as an assumed predetermined output but as one possible emergent configuration within a vast physical state space.
 
-
   The proposal is explicitly agnostic regarding the origin, ultimate purpose, or authorship of the universe. It does not claim that the universe is literally a computer, simulation, or engineered artifact. Instead, it asks whether the machine metaphor becomes scientifically useful when generalized beyond human engineering constraints.
-
 
   The paper concludes by identifying potential computational and observational methods through which aspects of the framework could be evaluated or falsified.
 authors:
