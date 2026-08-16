@@ -184,6 +184,19 @@ A formal citation will be provided once the manuscript reaches a stable publicat
 
 ---
 
+## Related Research Areas
+
+This framework intersects with discussions in:
+
+- digital physics and computational models of reality;
+- the simulation hypothesis;
+- complex systems and emergent behavior;
+- self-organization;
+- computational cosmology;
+- artificial life and generative systems.
+
+---
+
 ## License
 
 The manuscript and associated written materials are licensed under the:
